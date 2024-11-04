@@ -1,0 +1,50 @@
+.product-listing {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .product-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .product-card h2 {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
+  .product-card p {
+    color: #333;
+  }
+  
+  .product-card button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+.payment-result {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .payment-result h1 {
+    font-size: 2em;
+    color: #4caf50;
+  }
+  
+  .payment-result p {
+    color: #666;
+    font-size: 1.1em;
+  }
+  

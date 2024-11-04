@@ -1,0 +1,10 @@
+.product-detail {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f8f9fa;
+  }
+  .product-detail img {
+    width: 200px;
+    height: 200px;
+  }
+  
